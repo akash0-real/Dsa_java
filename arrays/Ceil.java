@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class Ceil {
     static int number(int[] one,int target){

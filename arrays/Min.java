@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class Min {
     static int minimum(int[] one){

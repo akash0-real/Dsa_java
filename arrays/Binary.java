@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class Binary {
     static int run(int[] one, int target){

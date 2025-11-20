@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class EvenLength {
     static int EvenChecker(int[] nums){

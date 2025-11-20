@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class RotatedArr {
     static int findPivot(int[] nums){

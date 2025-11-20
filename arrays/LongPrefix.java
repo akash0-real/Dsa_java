@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class LongPrefix {
     static String longString (String[] one){

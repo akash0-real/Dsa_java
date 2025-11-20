@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class maxWealth {
     static  int maximumWealth(int[][] accounts){

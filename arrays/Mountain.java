@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class Mountain {
     static int peakIndexInMountainArray(int[] arr) {

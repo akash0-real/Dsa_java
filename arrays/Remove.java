@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class Remove {
     static int RemoveDuplicate(int[] nums,int target){

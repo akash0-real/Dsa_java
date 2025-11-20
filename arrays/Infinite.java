@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class Infinite {
     static int Binary(int[] nums,int target,int start,int end){
